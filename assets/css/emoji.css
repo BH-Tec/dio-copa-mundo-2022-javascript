@@ -23,5 +23,5 @@
 .emoji.show {
     animation: ease-in-out;
     animation-name: show;
-    animation-duration: 4s;
+    animation-duration: 3s;
 }

@@ -13,7 +13,7 @@
     padding: 1rem;
     border: 1px solid #22DD7A;
     border-radius: 1rem;
-    background-image: url('../assets/imgs/estadio-1.png');
+    background-image: url('/assets/imgs/estadio-1.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

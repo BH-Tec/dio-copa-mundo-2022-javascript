@@ -5,9 +5,15 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.12.1/firebas
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-
+  apiKey: API_KEY,
+  authDomain: AUTH_DOMAIN,
+  projectId: PROJECT_ID,
+  storageBucket: STORAGE_BUCKET,
+  messagingSenderId: MESSAGING_SENDER_ID,
+  appId: APP_ID
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+
 export default app
