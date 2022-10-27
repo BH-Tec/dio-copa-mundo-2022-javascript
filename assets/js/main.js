@@ -41,7 +41,4 @@ onSnapshot(doc(db, "matches", "br-01"), (doc) => {
         throwGalvao()
         showEmoji()
     }
-});
-
-
-
+})
